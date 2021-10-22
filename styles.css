@@ -73,9 +73,9 @@ display: inline-block;
     margin:0px;
     padding:10px; 
     position:relative;
-    left:-10px;
+    left:-8px;
     top:-10px;
-    width:120%;
+    width:100vw;
 }
 #email{
 
