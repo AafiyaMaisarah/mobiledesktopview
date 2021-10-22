@@ -92,7 +92,7 @@ font-weight: bold;
 
 #email::placeholder{
     color:#f8b6b0;
-    opacity: 0.5px;  
+    /* opacity: 0.5px;   */
     
 }
 .box{
