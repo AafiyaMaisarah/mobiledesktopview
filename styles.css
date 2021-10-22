@@ -25,7 +25,7 @@
    font-family: 'Raleway', sans-serif;
    color: #F5B7B1;
    position: absolute;
-   top:340px;
+   top:320px;
    left:90px;
    font-size: 40px;
    font-weight: lighter;
@@ -37,7 +37,7 @@
  justify-content: center;
  color:rgb(27, 21, 21);
  position: absolute;
- top:380px;
+ top:350px;
  left:70px;
  font-size: 40px;
 }
@@ -47,7 +47,7 @@
  flex-wrap: wrap;
  justify-content: center;
  position: absolute;
- bottom:152px;
+ top:390px;
  left:80px;
  font-size:40px ;
 }
@@ -57,7 +57,7 @@
  margin:0px;
  padding:20px;
  position: absolute;
- bottom:50px;
+top:440px;
  
  
 /* display: inline-block;  */
@@ -72,10 +72,10 @@
 }
 #email{
 
-   border:1px solid #F5B7B1 ;
+   border:1px solid  #eea6a0 ;
     position:absolute;
     left:20px;
-    bottom:10px;
+    bottom:50px;
     z-index: 0px;
     width:70%;
     height:10px;
@@ -100,7 +100,7 @@
     background-color:#e68a82 ;
     position: absolute;
     left:250px;
-    bottom:21px;
+    bottom:60px;
     
 }
 .txt{
