@@ -38,7 +38,7 @@
  justify-content: center; */
  color:rgb(32, 30, 30);
  position: absolute;
- top:380px;
+ top:390px;
  left:70px;
  font-size: 40px;
  font-weight: lighter;
@@ -49,10 +49,16 @@
  flex-wrap: wrap;
  justify-content: center;
  position: absolute;
- top:420px;
- left:80px;
+ top:430px;
+ left:100px;
  font-size:40px ;
  font-weight: lighter;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 .hello{
     font-family: 'Cormorant Garamond', serif;
@@ -60,30 +66,30 @@
  margin:0px;
  padding:20px;
  position: absolute;
-top:470px;
-left:-10px;
+top:490px;
+left:40px;
 font-size: 18px;
 font-weight: bold;
+ text-align: center;
  
- 
-display: inline-block; 
+/* display: inline-block;  */
 
 }
 .image1{
     margin:0px;
     padding:10px; 
-    position:relative;
-    left:-8px;
+    position:fixed;
+    left:10px;
     top:-10px;
-    width:200px;
-    height: 50vh;
+    width:200%;
+    height: 5vh;
 }
 #email{
 
    border:1px solid  #eea6a0 ;
     position:absolute;
-    left:20px;
-   top:590px;
+    left:60px;
+   top:630px;
     z-index: 0px;
     width:50%;
     height:10px;
@@ -108,8 +114,8 @@ display: inline-block;
     border-radius:20px ;
     background-color:#e68a82 ;
     position: absolute;
-    left:200px;
-    top:600px;
+    left:220px;
+    top:640px;
     
 }
 .txt{
