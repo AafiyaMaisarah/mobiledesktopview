@@ -91,7 +91,7 @@ font-weight: bold;
     left:60px;
    top:630px;
     z-index: 0px;
-    width:50%;
+    width:60%;
     height:10px;
     font-size: 12px;
     border-radius:20px ;
@@ -114,7 +114,7 @@ font-weight: bold;
     border-radius:20px ;
     background-color:#e68a82 ;
     position: absolute;
-    left:220px;
+    left:270px;
     top:640px;
     
 }
