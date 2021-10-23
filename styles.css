@@ -75,7 +75,7 @@ font-weight: bold;
    border:1px solid  #eea6a0 ;
     position:absolute;
     left:50px;
-   top:530px;
+   top:510px;
    width:50%;
     height:30px;
     font-size: 10px;
@@ -96,8 +96,8 @@ font-weight: bold;
     border-radius:20px ;
     background-color:#e68a82 ;
     position: absolute;
-    left:190px;
-    top:530px;
+    left:170px;
+    top:510px;
     
 }
 .txt{
