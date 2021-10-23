@@ -65,8 +65,8 @@ font-weight: bold;
 .image1{
      position:absolute;
    top:50px;
-    width:100%;
-    height:30vh;
+    width:200%;
+    height:50vh;
     margin-top: 10px;
     margin-bottom: 10px;
 }
