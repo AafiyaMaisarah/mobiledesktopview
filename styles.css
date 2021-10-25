@@ -8,7 +8,7 @@ body{
     background:linear-gradient(rgb(250, 246, 246),rgb(241, 228, 229));
     background-repeat: no-repeat;
     width:100px;
-    height:80vh;
+    height:100vh;
 }
 .back{
     display:none;
@@ -27,7 +27,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Raleway', sans-serif;
    position: absolute;
-   top:300px;
+   top:360px;
    left:95px;
    font-size: 30px;
    letter-spacing: 10PX;
@@ -39,7 +39,7 @@ body{
  
  color:rgb(32, 30, 30);
  position: absolute;
- top:330px;
+ top:400px;
  left:70px;
  font-size: 30px;
  font-weight: lighter;
@@ -47,7 +47,7 @@ body{
 .soon{
     font-family: 'Jost', sans-serif;
  position: absolute;
- top:360px;
+ top:430px;
  left:95px;
  font-size:30px ;
  font-weight: lighter;
@@ -57,9 +57,9 @@ body{
     font-family: 'Cormorant Garamond', serif;
  color:#F5B7B1;
  position: absolute;
-top:400px;
-left:50px;
-font-size: 16px;
+top:480px;
+left:30px;
+font-size: 20px;
 font-weight: bold;
  /* text-align:justify; */
  line-height: 20px;
@@ -80,7 +80,7 @@ font-weight: bold;
    border:1px solid  #eea6a0 ;
     position:absolute;
     left:50px;
-   top:510px;
+   top:600px;
    width:45%;
     height:30px;
     font-size: 10px;
@@ -101,8 +101,8 @@ font-weight: bold;
     border-radius:20px ;
     background-color:#e68a82 ;
     position: absolute;
-    left:170px;
-    top:510px;
+    left:174px;
+    top:600px;
     
 }
 .txt{
