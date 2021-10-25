@@ -27,8 +27,8 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Raleway', sans-serif;
    position: absolute;
-   top:360px;
-   left:95px;
+   top:320px;
+   left:110px;
    font-size: 30px;
    letter-spacing: 10PX;
    font-weight: lighter;
@@ -39,16 +39,16 @@ body{
  
  color:rgb(32, 30, 30);
  position: absolute;
- top:400px;
- left:70px;
+ top:350px;
+ left:100px;
  font-size: 30px;
  font-weight: lighter;
 }
 .soon{
     font-family: 'Jost', sans-serif;
  position: absolute;
- top:430px;
- left:95px;
+ top:380px;
+ left:100px;
  font-size:30px ;
  font-weight: lighter;
 }
@@ -57,9 +57,9 @@ body{
     font-family: 'Cormorant Garamond', serif;
  color:#F5B7B1;
  position: absolute;
-top:480px;
+top:420px;
 left:30px;
-font-size: 20px;
+font-size: 16px;
 font-weight: bold;
  /* text-align:justify; */
  line-height: 20px;
@@ -80,7 +80,7 @@ font-weight: bold;
    border:1px solid  #eea6a0 ;
     position:absolute;
     left:50px;
-   top:600px;
+   top:520px;
    width:45%;
     height:30px;
     font-size: 10px;
@@ -98,11 +98,11 @@ font-weight: bold;
 .box{
     width:60px;
     height:30px;
-    border-radius:20px ;
+    border-radius:14px ;
     background-color:#e68a82 ;
     position: absolute;
     left:174px;
-    top:600px;
+    top:520px;
     
 }
 .txt{
